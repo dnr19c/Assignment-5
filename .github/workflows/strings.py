@@ -13,4 +13,3 @@ print("The product is", product(2,3))
 """
 >>> exec(code)
 The product is 6
->>> 
